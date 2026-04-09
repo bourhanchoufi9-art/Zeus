@@ -1,0 +1,9 @@
+{
+  "name": "zeus-system",
+  "version": "1.0.0",
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/cli": "latest",
+    "@capacitor/core": "latest"
+  }
+}
