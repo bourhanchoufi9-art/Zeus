@@ -1,5 +1,5 @@
 {
-  "name": "zeus-system",
+  "name": "zeus-app",
   "version": "1.0.0",
   "dependencies": {
     "@capacitor/android": "latest",
